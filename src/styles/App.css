@@ -1,11 +1,12 @@
 /* code here  */
-redColor {
-    font-size: 30px;
-    color: red;
+.redColor{
+  color: red;
+  font-size: 30px;
 }
 
-.blueColor {
-    font-size: 30px;
-    color: blue;
-    font-style: italic;
+.blueColor{
+  color: blue;
+  font-size: 30px;
+  font-style: italic;
 }
+
